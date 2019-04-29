@@ -172,3 +172,4 @@ k = 8
 n = 4
 
 genetic(iterations, k, n)
+print()
